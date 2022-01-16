@@ -1,5 +1,5 @@
 # Citation-Machine-for-Chinese
-I dont want write this description in English because this project is for Chinese Paper author.（其实是给大学生写的）
+I dont want to write this description in English because this project is for Chinese Paper author.（其实是给大学生写的）
 
 怎么说呢，给苦逼的大学生写一个参考文献格式生成器还是蛮好的。
 
