@@ -18,5 +18,3 @@ I dont want to write this description in English because this project is for Chi
 我说完了，然后最后希望你的课程论文（学术垃圾）可以拿到90+分吧！（这坨shit拿了92分）
 
 P.S. 本来这个项目还有ppt和演示视频的，但是ppt和演示视频都在课程设计原文有所体现，所以没有上传。
-
-代码是我一个人写的，课设上面写的分工是假的，为了带人捏！所以没有写co-developer。
